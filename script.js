@@ -193,3 +193,5 @@ if (document.getElementById('postForm')) {
     // Initial render
     renderPosts();
 }
+
+//Linha comentada apenas para testar a Pipe line com a notificação do pull via chat bot telegram
